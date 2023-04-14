@@ -1,4 +1,4 @@
-# 01-github-explorer
+# Github-explorer
 
 Aprendendo e aplicando conceitos fundamentais do ReactJs.
 <br>
